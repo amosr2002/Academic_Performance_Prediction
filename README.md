@@ -9,3 +9,8 @@ problems in search of a solution with regards to educational equity is that of i
 students need support in the first place. Our goal in this paper will be to analyze the use of various
 statistical methods to develop models for the prediction of grades as a means of identifying in-need
 students.
+
+- student_Final2.ipynb
+  - This file includes the various methods we tried to predict Math/Language scores. It includes the PCA/Dimension Reduction, Tree, Lasso, Ridge, and other methods. 
+- Project_Report.pdf
+  - Includes the full project report
